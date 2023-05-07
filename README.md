@@ -1,4 +1,4 @@
-# The Lost Context Bug Code-Along
+# The Lost Context Bug Code-Along c
 
 ## Learning Goals
 
